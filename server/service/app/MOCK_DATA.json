@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "username": "nmacdaid0",
+    "email": "ebott0@geocities.jp",
+    "password": "JlSlDJcRsrw",
+    "role": "Surveyor",
+    "phoneNumber": "261-788-2790",
+    "Address": "Apt 1788"
+  },
+  {
+    "id": 2,
+    "username": "egoodrich1",
+    "email": "mdeakan1@springer.com",
+    "password": "4vGw60C",
+    "role": "Electrician",
+    "phoneNumber": "586-696-3860",
+    "Address": "Room 352"
+  },
+  {
+    "id": 3,
+    "username": "asutterfield2",
+    "email": "cjohnson2@google.com.hk",
+    "password": "UmE16S",
+    "role": "Construction Worker",
+    "phoneNumber": "181-405-7672",
+    "Address": "Room 1726"
+  },
+  {
+    "id": 4,
+    "username": "schinery3",
+    "email": "bricardou3@furl.net",
+    "password": "pl6cbmZ",
+    "role": "Engineer",
+    "phoneNumber": "571-651-7810",
+    "Address": "2nd Floor"
+  },
+  {
+    "id": 5,
+    "username": "lsimnor4",
+    "email": "inoury4@blog.com",
+    "password": "38KV0TN",
+    "role": "Construction Foreman",
+    "phoneNumber": "663-612-6854",
+    "Address": "PO Box 62085"
+  }
+]

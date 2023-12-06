@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kyt spider",
+    "slug": "kyt-spider",
+    "descrption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "price": "500000",
+    "mainImg": "https://www.kythelmet.com/uploads/images/product/full/DSC06139.png",
+    "categoryId": "1",
+    "authorId": "1",
+    "idmongodb": "63f9f0bdf34ed45bf9fa5cb2"
+  },
+  {
+    "name": "kyt dj maru 098",
+    "slug": "kyt-dj-maru-098",
+    "descrption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "price": "500000",
+    "mainImg": "https://www.kythelmet.com/uploads/images/product/full/DSC098202.png",
+    "categoryId": "1",
+    "authorId": "1",
+    "idmongodb": "63f9f0bdf34ed45bf9fa5cb2"
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "Kyt":[
+            {"id":1,"name":"Dj Maru","slug":"data:image","description":null,"price":"50999","mainImg":"https://www.kythelmet.com/uploads/images/product/full/DSC098202.png","categoryId":1,"authorId":1},
+            {"id":2,"name":"Dj Maru 3","slug":"data:image","description":null,"price":"50999","mainImg":"https://www.kythelmet.com/uploads/images/product/full/DSC09043.png","categoryId":1,"authorId":1}
+          ]
+}
